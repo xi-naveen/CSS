@@ -1,0 +1,166 @@
+/* h1{
+    color:rgb(218, 73, 73);
+}
+
+p{
+    color:rgb(207, 160, 89)
+} */
+
+/* button{
+    color: brown;
+    background-color:rgb(220, 202, 220);
+} */
+
+  /* yha Hex color add kia */
+/* body{
+    background-color: #FBF5DD
+
+}
+ */
+
+ /* y universal selector hai */
+
+/* *{
+    color: blue;
+} */
+
+
+
+   /* element selector */
+
+/* h1{
+    color: green;
+} */
+
+/* button{
+    color: black;
+} */
+
+
+/* #myid(SELECTOR) */
+
+
+/* #heading1{
+    color: blue;
+    
+} */
+
+
+/* #heading2{
+    color: darkgreen;
+
+} */
+/* #heading3{
+    color: rgb(95, 105, 95);
+
+} */
+
+
+/* class 
+
+.class{
+    color:gold ;
+} */
+
+/* #box
+{color: rgb(32, 32, 101);
+
+} */
+
+/* .class{
+    color: blue;
+} */
+
+/* button{
+    color:blue;
+} */
+
+
+ /* # text-align Hum chizo ko left/right/centre mai krna ka liya usse krta hai */
+
+/* h1{
+    text-align:center ;
+} 
+
+
+# koi bi link ki underline k htana ka liya hum y method use krta hai
+  or underline ka color bi select kr skta hai apni requriment ka hisab sa
+  or bi hum text properties (mdn) website pa jakr explore kr skta hai
+
+a{
+  text-decoration: none;
+}
+
+h2{
+    text-decoration: underline coral;
+} */
+
+/* #h1{
+    font-weight: normal;
+
+}
+
+#h2{
+    font-weight: bold;
+}
+
+#h3{
+    font-weight:lighter;
+}
+#h4{
+    font-weight:bolder;
+} */
+
+/* p{
+    font-family: 'Segoe UI', cursive;
+}
+ */
+
+ /* #n1{
+    font-size: 50px;
+ }
+
+ #n2{
+    font-size: 10px;
+ }
+
+ #n3{
+    font-size: 100px;
+ }
+
+ #n4{
+    font-size: 70px;
+ } */
+
+
+ /* P{
+    line-height: 50px;
+ } */
+
+
+
+ /* #practice 2 */
+
+ /* Q1. */
+
+ h1{
+    text-align:center;
+    text-transform: capitalize;
+ }
+
+
+ /* Q2. */
+
+ /* p{
+    font-family:'Times New Roman', Times, serif;
+ } */
+
+ /* Q3. */
+
+/* #outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+} */
