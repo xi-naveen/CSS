@@ -101,7 +101,7 @@ div{
  /* Q2. */
 
 
- *{
+ /* *{
     padding: 0;
     margin: 0;
     color: white;
@@ -119,12 +119,236 @@ div{
  }
 
  #logo{
-    color: #f08804;
-    font-size:25px ;
+    /* color: #f08804; */
+    /* font-size:25px ;
  }
 
  a{
     margin-right: 100px;
     text-decoration: none;
 
+ } */
+
+
+      /* <!-- # display property --> */
+
+      /* div{
+        background-color:cadetblue;
+        display:inline;
+      }
+
+      button{
+        display: block;
+      }
+ */
+
+ /* #one{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block
+
+     */
+
+
+ /* } */
+  /* #two{
+    background-color: rgb(219, 196, 136);
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block
+ /* */
+  /* } */
+
+  /* #three{
+    background-color: darkgrey;
+     width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px; */
+    /* display:inline-block */
+ /* */ 
+    /* isma sb thk hai pr top or bottom ka margin set nia hua 
+    #isko set krna ka liya hua *inline-blick ka use krta hai
+ */
+  /* } */
+
+  /* # inline-block  */
+
+
+     /* # display:inline-block */
+
+       /* #one{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block
+ } 
+
+ #two{
+    background-color: rgb(219, 196, 136);
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block
+   } 
+   
+      #three{
+    background-color: darkgrey;
+     width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: none;
+
+    ### display: none;  three box gyab ho gya 
+    # or koi jgha bi create nhi hui
+
+      } */
+
+
+         /* <!-- # visibility --> */
+
+     
+      /* div{
+    background-color: darkgrey;
+     width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block ;
+     }
+
+
+     #box2{
+            visibility: hidden;
+
+     } */
+
+
+      /* <!-- #Alpha channel (rgba) --> */
+
+        /* #one{
+    background-color: rgba(0, 255, 0, 0.5);
+     width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block ;
+
+}
+        #two{
+    background-color:rgba(0, 0, 170, 0.5);
+     width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block ;
+
+} */
+
+
+
+  /* # Practice set 4
+
+      Q1.
+ */
+
+
+   /* *{
+    padding: 0;
+    margin: 0;
+   }
+
+ #nav{
+    background-color: rgb(28, 168, 168);
+    height: 70px;
+    width: 1430px;
+    border: 10px ,solid;
+    font-size: larger;
+    padding:10px ;
+    margin: 10PX;
+
+
  }
+
+
+  #co{
+    background-color: rgb(92, 156, 49);
+    height: 100px;
+    width: 100px;
+    padding:10px ;
+    margin: 10PX;
+    border: 2px, solid;
+  display: inline-block;
+
+
+
+
+
+
+  }
+  #n{
+    background-color: rgb(218, 142, 142);
+     height: 100px;
+     width: 100px;
+     padding:10px ;
+     margin: 10PX;
+     border: 2px, solid;
+     display: inline-block;
+
+
+
+  }
+  #tent{
+     background-color: rgb(114, 190, 137);
+     height: 100px;
+     width: 100px;
+     padding:10px ;
+     margin: 10PX;
+     border: 2px, solid;
+    display: inline-block;
+
+  }
+
+    
+
+ #footer{
+    background-color: rgb(99, 99, 102);
+    height: 70px;
+    width: 1430px;
+        padding:10px ;
+    margin: 10PX;
+    text-align: center;
+
+    
+ }
+
+ a{
+    margin-right: 170PX;
+   
+ }
+
+ #logo{
+    color: yellow;
+    font-size: 30px;
+ }
+
+
+ .content{
+   height:500px ;
+
+ }
+
+       #####LEVEL 2 COMPLETED#####
+ */
+
+
+       /* ##### LEVEL 3 START #####  */
