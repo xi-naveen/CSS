@@ -1,0 +1,166 @@
+@ -1,166 +0,0 @@
+ /* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: chartreuse;
+    
+
+}
+
+#box2{
+    height: 50px;
+     width: 10%; 
+    background-color: rgb(121, 85, 219); 
+    /* margin-left: 10% */
+
+/* } */ 
+
+
+/* #box1{
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+    font-size: 10px;
+    
+
+}
+
+#box2{
+    height: 50px;
+     width: 5em; 
+    background-color: rgb(121, 85, 219);
+    margin-left: 10%;
+    font-size: 2em; 
+} */
+
+
+    /*  em ###### 2 time of parent font-size: ; */
+
+
+/* }
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: chartreuse;
+    
+
+}
+
+#box2{
+    height: 50px;
+     width: 30%; 
+    background-color: rgb(121, 85, 219);
+    margin-left: 10%;
+} */
+
+
+
+    /* <!-- ####  position property  #### -->
+
+
+         <!-- ###  static   ### -->
+
+ */
+
+
+ /* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px ,solid;
+    display: inline-block;
+ } */
+
+    /* ### position: static ### */
+
+ /* box1{
+    position: static;
+ }
+ */
+     /* ### position: relative ### */
+
+
+ /* #box2{
+    position: relative;
+    top:10px
+ }
+ */
+
+        /* ### position: absolute ### */
+
+
+ /* #box3{
+    background-color: rgb(159, 159, 209);
+    position: absolute;
+    left: 300px;
+    top: 500px;
+ } */
+
+         /* ### position: fixed ### */
+     
+
+
+  /* #box4{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(216, 111, 171); 
+
+ }  */
+
+  /* #box5{
+    position: sticky;
+    top: 0;
+    left:50px ;
+    background-color: rgb(216, 111, 171); 
+
+ }  */
+
+
+
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px ,solid;
+    display: inline-block;
+ }
+
+    /* ### position: static ### */
+
+ box1{
+    position: static;
+ }
+
+     /* ### position: relative ### */
+
+
+ #box2{
+    position: relative;
+    top:10px
+ }
+
+
+        /* ### position: absolute ### */
+
+
+ #box3{
+    background-color: rgb(159, 159, 209);
+    position: absolute;
+    left: 300px;
+    top: 500px;
+ }
+
+         /* ### position: fixed ### */
+     
+
+
+  #box4{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(216, 111, 171); 
+
+ } 
+
+
