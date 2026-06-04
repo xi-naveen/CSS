@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 2px;
+}
+
+body{
+    background-color: white;
+}
+
+div{
+    display: inline-block;
+    font-size:20px ;
+    margin-left: 23px;
+
+
+}
+
+
+#box1{
+    text-align: center;
+}
+
+
+#box2{
+        text-align: center;
+
+
+
+}
+
+
+#box3{
+            text-align: center;
+
+
+}
+
+
+#box4{
+            text-align: center;
+
+
+
+}
+
+
+#box5{
+            text-align: center;
+
+
+
+}
+
+
+#box5{
+            text-align: center;
+
+
+
+}
+
+
+#box6{
+            text-align: center;
+
+
+
+}
+
+
+#box7{
+            text-align: center;
+
+
+
+}
+
+
+#box8{
+          text-align: center;
+
+}
+#box9{
+          text-align: center;
+
+}
+#box10{
+          text-align: center;
+          color: blue;
+          background-color: rgb(185, 185, 204);
+
+}
+
+#rad{
+    margin-left: 250px;
+    font-size: 17px;
+    
+}
+
+
+#head{
+    background-color: rgb(214, 214, 91);
+    height:60px ;
+    text-align: center;
+}
+
+
+#from{
+    border: 1px,solid,black;
+    width: 250px;
+    margin-left: 250px;
+}
+
+
+#to{
+    border: 1px,solid,black;
+    width: 250px;}
+
+
+#dep{
+    border: 1px,solid,black;
+    width: 150px;}
+
+
+#ret{
+    border: 1px,solid,black;
+    width: 150px;}
+
+
+#class{
+    border: 1px,solid,black;
+    width: 160px;}
+
+
+    #reg{
+            border: 1px,solid,black;
+
+    }
+
+    #boxn{
+     border: 1px,solid,black;
+     height: 50px;
+     width: 150px;
+     margin-left: 265px;
+     background-color: rgb(218, 235, 235);
+
+        
+    }
+
+    #boxa{
+         border: 1px,solid,black;
+         height: 50px;
+         width: 150px;
+              background-color: rgb(218, 235, 235);
+
+
+
+    }
+
+    #boxv{
+        border: 1px,solid,black;
+          height: 50px;
+         width: 150px;
+              background-color: rgb(218, 235, 235);
+
+
+
+
+    }
+
+    #boxe{
+         border: 1px,solid,black;
+          height: 50px;
+         width: 150px;
+              background-color: rgb(218, 235, 235);
+
+
+
+
+    }
+
+    #boxe{
+          border: 1px,solid,black;
+          height: 50px;
+         width: 150px;
+              background-color: rgb(218, 235, 235);
+
+
+          
+
+
+    }
+
+    #boxnn{
+        border: 1px,solid,black;
+        height: 50px;
+         width: 150px;
+       background-color: rgb(218, 235, 235);
+    }
+
+    button{
+        color: blue;
+        font-size: 35px;
+        margin-left: 700px;
+         background-color: rgb(214, 214, 91);
+         display:inline;
+         
+
+    }
+
+    
+
