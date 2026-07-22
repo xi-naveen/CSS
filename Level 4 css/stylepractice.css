@@ -1,0 +1,24 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+div{
+    background-color:rgb(145, 236, 236) ;
+    display: flex;
+    justify-content:space-around;
+
+
+}
+
+a{
+    text-decoration: none;
+    background-color: rgb(245, 191, 122);
+
+}
+
+li{
+    list-style-type:none;
+    display: inline;
+}
