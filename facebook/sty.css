@@ -2,29 +2,46 @@
 
 #nav{
     width: 100%;
-    height:200px ;
-    background-color: rgb(218, 165, 165);
+    height:150px ;
+    background-color: rgb(139,157,195);
     text-align: center;
-    font-size: 100px;
     position: fixed;
     top: 0;
+}
 
+button{
+    background-color: rgb(170, 170, 210);
+    margin-left: 10px;
 
 }
 
 
-
-
-
-
+#logo{
+    color: #692222;
+    font-size: 50px;
+    font-weight:600;
+}
 
 
 #line{
     padding-top:1%;
     width: 50%;
     margin-left: 25%;
-    margin-top: 200px;
+    margin-top: 150px;
     line-height: 80px;
     border: 4px solid black;
     background-color: rgb(175, 214, 201);
+    
+    
 }
+
+#bottom{
+    background-color: rgb(139,157,195);
+    width: 100%;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+
+}
+
+
