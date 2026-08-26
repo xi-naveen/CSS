@@ -1,36 +1,49 @@
 
 
+
+
 #nav{
+    color: rgb(224, 19, 19);
     width: 100%;
     height:150px ;
-    background-color: rgb(139,157,195);
     text-align: center;
     position: fixed;
     top: 0;
+    
 }
 
 button{
-    background-color: rgb(170, 170, 210);
     margin-left: 10px;
+    color: currentColor;    
+
+
 
 }
 
 
 #logo{
-    color: #692222;
     font-size: 50px;
     font-weight:600;
 }
 
+span:hover{
+    color: black;
+
+}
+
+
+
 
 #line{
-    padding-top:1%;
-    width: 50%;
-    margin-left: 25%;
-    margin-top: 150px;
     line-height: 80px;
     border: 4px solid black;
-    background-color: rgb(175, 214, 201);
+    background-color: rgb(235, 243, 240);
+    margin-top: 100px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOULxZOsq5RrHp3RqSUJi7qmCUEzVaAIpaPwP-x811A1JImRi23Js20w&s=10');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-position: center;
+    
     
     
 }
@@ -43,5 +56,6 @@ button{
     text-align: center;
 
 }
+ 
 
 
